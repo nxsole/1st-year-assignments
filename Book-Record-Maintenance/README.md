@@ -1,13 +1,13 @@
-**Silliman University SY 2023-2024**
-**Subject:** CCS3 - Intermediate Programming
+# Silliman University SY 2023-2024
+# Subject:** CCS3 - Intermediate Programming
 
 
-# 📖 Book Record Maintenance System
+# Book Record Maintenance System
 
 **Date Started:** March 12, 2023  
 **Date Finished:** March 23, 2023  
 
-## 📝 Summary
+## Summary
 A modular C program that simulates a **book record maintenance system** using **array of structures**.  
 It allows the user to:
 - Add new book records
@@ -20,7 +20,7 @@ The program also includes input validation, duplicate checks, and sorting functi
 
 ---
 
-## ⚙️ Features
+## Features
 - **Add Book Record:** Stores book number, title, author, year, type, cost, and availability.  
 - **Search & Edit Record:** Finds a book by title/author and allows updating its details.  
 - **Search & Delete Record:** Locates and removes a book from the list.  
