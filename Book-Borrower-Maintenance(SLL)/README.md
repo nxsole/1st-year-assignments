@@ -1,8 +1,11 @@
 # Book and Borrower Record Management System (Linked List)
 
 **Author:** Angel Fredelle Mishka A. Araula
+
 **Course & Section:** BSIT – CCS3B - Intermediate Programming
+
 **Date Started:** April 29, 2024
+
 **Date Finished:** May 15, 2024
 
 #  Project Summary
@@ -11,9 +14,7 @@ It is a conversion of an array-of-structures implementation into a linked-list i
 
 ## The program allows users to:
 **Manage Book Records:**
-
 Add a new book record
-
 Search and edit existing records
 
 Search and delete records
