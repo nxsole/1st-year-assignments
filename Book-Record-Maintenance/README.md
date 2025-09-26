@@ -1,9 +1,6 @@
-# Silliman University SY 2023-2024
-# Subject:** CCS3 - Intermediate Programming
-
-
 # Book Record Maintenance System
-
+**Silliman University SY 2023-2024**
+**Subject: CCS3 - Intermediate Programming**
 **Date Started:** March 12, 2023  
 **Date Finished:** March 23, 2023  
 
