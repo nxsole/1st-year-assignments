@@ -1,9 +1,10 @@
 # Book and Borrower Record Management System (Linked List)
 
-Author: Angel Fredelle Mishka A. Araula
-Course & Section: BSIT – CCS3B - Intermediate Programming
-Date Started: April 29, 2024
-Date Finished: May 15, 2024
+**Author:** Angel Fredelle Mishka A. Araula
+
+**Course & Section:** BSIT – CCS3B - Intermediate Programming
+**Date Started:** April 29, 2024
+**Date Finished:** May 15, 2024
 
 ##  Project Summary
 This project is a modular program that simulates the **maintenance of book and borrower records** using **singly linked lists**.
