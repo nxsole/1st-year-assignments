@@ -14,7 +14,9 @@ It is a conversion of an array-of-structures implementation into a linked-list i
 
 ## The program allows users to:
 **Manage Book Records:**
+
 Add a new book record
+
 Search and edit existing records
 
 Search and delete records
